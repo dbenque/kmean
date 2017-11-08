@@ -1,0 +1,7 @@
+package: github.com/dbenque/kmean
+import:
+- package: github.com/bugra/kmeans
+- package: gonum.org/v1/plot
+  subpackages:
+  - plotter
+  - vg
